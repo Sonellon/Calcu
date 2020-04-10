@@ -1,0 +1,7 @@
+C:\Users\sonel\source\repos\Calculate\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\sonel\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\sonel\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\sonel\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\sonel\source\repos\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\sonel\source\repos\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\sonel\source\repos\Calculate\Calculate\obj\Debug\Calculate.pdb
